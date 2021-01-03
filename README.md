@@ -1,3 +1,3 @@
 # Machine_Learning_Yahak
 
-[![image](https://user-images.githubusercontent.com/55044278/103480488-11380e00-4e18-11eb-999f-5daa8340f5d9.png)](https://ml.yah.ac/)
+[![image](https://user-images.githubusercontent.com/55044278/103480675-ec906600-4e18-11eb-9cbf-a8a12fc70bb1.png)](https://ml.yah.ac/)
