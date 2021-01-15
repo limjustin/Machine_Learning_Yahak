@@ -5,5 +5,10 @@
 **수강기간**
 
 - 텐서플로우 (Python) : 2021.01.03 ~ 2021.01.07
-
 - 텐서플로우 (Javascript) : 2021.01.10 ~ 
+
+<br>
+
+**수료증**
+
+<img src = "https://user-images.githubusercontent.com/55044278/104684413-58899d00-573c-11eb-85aa-07dfb5e7ed27.png" height = "500px">
